@@ -7,12 +7,13 @@
 1. 克隆此仓库到本地：
    ```
    git clone https://github.com/GuoYunLong20140602/WindowsDirCommandEnhanceTools-NoInstallPython.git
-   ```2
-2. 进入项目目录：
+   ```
+2. 解压.7z文件
+3. 进入项目目录：
    ```
    cd WindowsDirEnhanceTools
    ```
-3. 找到ls.exe, 设置环境变量（如果需要的话）。
+4. 找到ls.exe, 设置环境变量（如果需要的话）。
 
 ## 💻 使用方法
 运行脚本，可以不带参数列出当前目录的信息，或指定路径查看该路径下的文件和目录：
